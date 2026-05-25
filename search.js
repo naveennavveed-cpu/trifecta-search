@@ -1,5 +1,5 @@
 (function () {
-  var OVERLAY_SCRIPT_SRC = '/overlay-controller.js';
+  var OVERLAY_SCRIPT_SRC = 'https://cdn.jsdelivr.net/gh/naveennavveed-cpu/trifecta-search@main/overlay-controller.js';
   var LAUNCHER_SELECTOR = '[data-search-launcher]';
   var OPEN_DEBOUNCE_MS = 250;
   var PREFILL_DELAY_MS = 500;
