@@ -1,5 +1,5 @@
 /* ── OVERLAY — Search / AI / Voice ── */
-(function () {
+function () {
     var panel = document.getElementById('chatbasePanel');
     var scrim = document.getElementById('overlayScrim');
     var closeBtn = document.getElementById('chatbaseClose');
